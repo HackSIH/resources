@@ -1,0 +1,46 @@
+
+ 
+  .card {
+    width: calc(33.33% - 20px); 
+    margin: 10px; 
+    border: 1px solid #ccc; 
+    padding: 20px;
+    box-sizing: border-box;
+    background-color:orange;
+  }
+
+  .images{
+    height:250px;
+    width:350px;
+  }
+
+  .btn{
+    background-color:olivedrab;
+    color:white;
+    height:2.5rem;
+    width:5rem;
+    font-weight:700;
+  }
+
+  body{
+    background-color:#100641;
+  }
+
+  .heading{
+    text-align:center;
+    text-transform:uppercase;
+    text-decoration:dotted;
+    color:#ccc;
+    font-size:50px;
+    /* background-color:orange; */
+   
+  }
+
+  .sub-head{
+    color:white;
+    text-transform:uppercase;
+    text-decoration:underline;
+    margin:2rem;
+    font-size:40px;
+  }
+  
